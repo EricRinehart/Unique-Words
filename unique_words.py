@@ -1,4 +1,3 @@
-# This is my own work: Eric Rinehart 10/30/19
 # This program reads a text file into a string variable
 # The string is seperated into a list of all the words in the file
 # Then the list of words is further reduced into a set
